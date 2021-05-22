@@ -1,4 +1,4 @@
-# flutter_test_task
+## Bitcoin test project
 
 A new Flutter project.
 
